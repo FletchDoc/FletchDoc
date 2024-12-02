@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Medical doctor. Specialty in Internal Medicine and Emergency Medicine. PhD student of Data Science at UCM (Madrid).
+
 <!--
 **FletchDoc/FletchDoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
